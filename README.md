@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Puneet Khoiya 👋
+## Software Developer | Web Development
 
-<!--
-**Puneet-Khoiya30/Puneet-Khoiya30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on TPO-NITJ
+🌱 Learning Cloud Computing
+👯 Open to collaborate on FullStack Projects
+💬 Ask me about Development.
 
-Here are some ideas to get you started:
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+[Add more technology badges you know]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](Your-LinkedIn-URL)
