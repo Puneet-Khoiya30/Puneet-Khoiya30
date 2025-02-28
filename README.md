@@ -1,4 +1,4 @@
-# 👨‍💻 Puneet Khoiya | Code Craftsman 🛠️
+# 👨‍💻 Puneet Khoiya 🛠️
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=FullStack+Developer;C%2B%2B+Enthusiast;Problem+Solver;Machine+Learning+Explorer" alt="Typing SVG" />
@@ -17,9 +17,9 @@
 const puneet = {
   location: "India",
   role: "Software Developer",
-  focus: ["Frontend Development", "Problem Solving", "Machine Learning"],
+  focus: ["FullStack Development", "Problem Solving", "Machine Learning"],
   currentProject: "Training and Placement Portal for NITJ",
-  codingStreak: "500+ LeetCode problems solved",
+  dataStructures: "500+ LeetCode problems solved",
   rating: "LeetCode: 1550 | CodeChef: 3⭐",
   favoriteQuote: "The best error message is the one that never shows up."
 };
