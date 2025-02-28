@@ -6,8 +6,8 @@
 I'm a **passionate Software Developer** with expertise in **Frontend Development, C++, Web Technologies, and Machine Learning**. Currently working on a **Training and Placement Portal** for my college! 🎓
 
 - 🎯 **Frontend Enthusiast** | React, Tailwind CSS, SCSS
-- 🏆 **LeetCode Streak**: 151 days | 400+ problems solved | **Rating: 1550**
-- ⚡ **Competitive Coder**: 2⭐ on CodeChef
+- 🏆 **LeetCode Streak**: 500+ problems solved | **Rating: 1550**
+- ⚡ **Competitive Coder**: 3⭐ on CodeChef
 - 🎨 **Hackathon Geek**: Top 5% in **Adobe GenSolve Hackathon**
 - 💡 **Projects**: E-commerce Platform, Curvetopia, Credit Card Fraud Detection & more
 
@@ -15,7 +15,7 @@ I'm a **passionate Software Developer** with expertise in **Frontend Development
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,scss,html,css,js,ts,cpp,python,firebase,mysql,git,github,flask" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,scss,html,css,js,cpp,python,firebase,mysql,mongodb,express,github,flask" />
 </div>
 
 ---
@@ -32,16 +32,16 @@ I'm a **passionate Software Developer** with expertise in **Frontend Development
 ---
 
 ### 🚀 Recent Projects
-- **[🎭 Cinema Ticket Booking System](https://github.com/PuneetKhoiya/cinema-ticket-booking)**
-- **[📊 Credit Card Fraud Detection](https://github.com/PuneetKhoiya/credit-card-fraud-detection)**
-- **[🛍️ E-commerce for Local Businesses](https://github.com/PuneetKhoiya/ecommerce-local)**
+- **[🎭 Cinema Ticket Booking System](https://github.com/Puneet-Khoiya30/cinema-ticket-booking)**
+- **[📊 Credit Card Fraud Detection](https://github.com/Puneet-Khoiya30/credit-card-fraud-detection)**
+- **[🛍️ E-commerce for Local Businesses](https://github.com/Puneet-Khoiya30/ecommerce-local)**
 
 ---
 
 ### 💬 Connect With Me
 - 🔗 **Portfolio**: [puneetkhoiya.dev](https://puneetkhoiya.dev)
-- 💼 **LinkedIn**: [Puneet Khoiya](https://linkedin.com/in/puneetkhoiya)
+- 💼 **LinkedIn**: [Puneet Khoiya](https://www.linkedin.com/in/puneet-khoiya-bnl8)
 - 🐦 **Twitter**: [@PuneetKhoiya](https://twitter.com/PuneetKhoiya)
-- 📫 **Email**: [puneet.khoiya@gmail.com](mailto:puneet.khoiya@gmail.com)
+- 📫 **Email**: [puneet.khoiya@gmail.com](mailto:khoiyapuneet30@gmail.com)
 
 Let's build something **amazing** together! 🚀✨
