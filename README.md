@@ -41,7 +41,7 @@ I'm a **passionate Software Developer** with expertise in **Frontend Development
 ### 💬 Connect With Me
 - 🔗 **Portfolio**: [puneetkhoiya.dev](https://puneetkhoiya.dev)
 - 💼 **LinkedIn**: [Puneet Khoiya](https://www.linkedin.com/in/puneet-khoiya-bnl8)
-- 🐦 **Twitter**: [@PuneetKhoiya](https://twitter.com/PuneetKhoiya](https://x.com/khoiya_puneet30)
+- 🐦 **Twitter**: [@PuneetKhoiya](https://x.com/khoiya_puneet30)
 - 📫 **Email**: [puneet.khoiya@gmail.com](mailto:khoiyapuneet30@gmail.com)
 
 Let's build something **amazing** together! 🚀✨
