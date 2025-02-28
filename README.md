@@ -22,11 +22,11 @@ I'm a **passionate Software Developer** with expertise in **Frontend Development
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuneetKhoiya&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneet-Khoiya30&theme=radical&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PuneetKhoiya&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Puneet-Khoiya30&show_icons=true&theme=radical&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetKhoiya&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet-Khoiya30&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
