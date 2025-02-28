@@ -32,16 +32,16 @@ I'm a **passionate Software Developer** with expertise in **Frontend Development
 ---
 
 ### 🚀 Recent Projects
-- **[🎭 Cinema Ticket Booking System](https://github.com/Puneet-Khoiya30/cinema-ticket-booking)**
-- **[📊 Credit Card Fraud Detection](https://github.com/Puneet-Khoiya30/credit-card-fraud-detection)**
-- **[🛍️ E-commerce for Local Businesses](https://github.com/Puneet-Khoiya30/ecommerce-local)**
+- **[🎭 Cinema Ticket Booking System](https://github.com/Puneet-Khoiya30/Online-Cinema-Ticket-Booking-System-)**
+- **[📊 Credit Card Fraud Detection](https://github.com/Puneet-Khoiya30/creditcard_fraud_detection)**
+- **[🛍️ Training and Placement Portal of NITJ](https://github.com/Puneet-Khoiya30/TPO-NITJ)**
 
 ---
 
 ### 💬 Connect With Me
 - 🔗 **Portfolio**: [puneetkhoiya.dev](https://puneetkhoiya.dev)
 - 💼 **LinkedIn**: [Puneet Khoiya](https://www.linkedin.com/in/puneet-khoiya-bnl8)
-- 🐦 **Twitter**: [@PuneetKhoiya](https://twitter.com/PuneetKhoiya)
+- 🐦 **Twitter**: [@PuneetKhoiya](https://twitter.com/PuneetKhoiya](https://x.com/khoiya_puneet30)
 - 📫 **Email**: [puneet.khoiya@gmail.com](mailto:khoiyapuneet30@gmail.com)
 
 Let's build something **amazing** together! 🚀✨
